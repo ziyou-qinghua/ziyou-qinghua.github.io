@@ -2,6 +2,7 @@ site_name: 东北师大附中生存手册
 site_url: https://ziyou-qinghua.github.io/site/
 theme:
   name: material
+  custom_dir: overrides
 
 nav:
   - "index.md"
