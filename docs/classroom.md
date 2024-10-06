@@ -1,8 +1,6 @@
 ---
-comments:true
+comments: true
 ---
-
-
 
 # 教室设备使用
 
