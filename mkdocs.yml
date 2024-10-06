@@ -9,3 +9,7 @@ nav:
 
   - 时间:
       - "daily.md"
+  - 班型:
+      - "class-exam.md"
+      - "class-num.md"
+      - "class-gaokao.md"
