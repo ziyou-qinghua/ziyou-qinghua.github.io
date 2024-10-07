@@ -45,7 +45,7 @@ nav:
       - "qinghua-map.md"
   - 硬件设备:
       - "classroom-equip.md"
-      - "otherroom-equip.md"
-  - "orgnation.md"
+      # - "otherroom-equip.md" 這是啥
+  - "orgnization.md"
   - 杂项:
       - "others.md"
