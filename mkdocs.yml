@@ -32,10 +32,20 @@ theme:
 # 以下为目录信息
 nav:
   - "index.md"
-  - 时间:
+  - 日程:
       - "daily.md"
-  - 班型:
+      - "lessons.md"
+      - "entertainment.md"
+  - 分班及班型配置:
       - "class-exam.md"
       - "class-num.md"
       - "class-gaokao.md"
-  - "classroom.md"
+  - 地图及交通:
+      - "ziyou-map.md"
+      - "qinghua-map.md"
+  - 硬件设备:
+      - "classroom-equip.md"
+      - "otherroom-equip.md"
+  - "orgnation.md"
+  - 杂项:
+      - "others.md"
