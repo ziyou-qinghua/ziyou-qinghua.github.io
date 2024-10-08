@@ -1,5 +1,5 @@
 ---
-comment: true
+comments: true
 ---
 
 # 青华校区地图
