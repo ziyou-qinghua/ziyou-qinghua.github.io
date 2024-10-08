@@ -13,40 +13,40 @@ theme:
   palette: #日夜模式切换
     - media: "(prefers-color-scheme: light)"
       scheme: default
-      toggle: 
+      toggle:
         icon: material/weather-sunny
         name: 日间模式
     - media: "(prefers-color-scheme: dark)"
       scheme: slate
-      toggle: 
+      toggle:
         icon: material/weather-night
         name: 夜间模式
   icon:
     repo: fontawesome/brands/github # 设置git仓库图标
-  features: 
+  features:
     - navigation.tabs # 页顶导航栏
     - navigation.tabs.sticky # 粘性导航栏
     - toc.follow # 边栏自动滚动
-    - navigation.top # 回到顶部 
+    - navigation.top # 回到顶部
 
 # 以下为目录信息
 nav:
   - "index.md"
   - 日程安排:
-    - "time-daily.md"
-    - "time-break.md"
-    - "lessons.md"
-    - "entertainment.md"
+      - "time-daily.md"
+      - "time-break.md"
+      - "lessons.md"
+      - "entertainment.md"
   - 分班及班型:
-    - "class-exam.md"
-    - "class-num.md"
-    - "class-gaokao.md"
+      - "class-exam.md"
+      - "class-num.md"
+      - "class-gaokao.md"
   - 校内地图:
-    - "place-ziyou.md"
-    - "place-qinghua.md"
-  - 校外地图: 
+      - "place-ziyou.md"
+      - "place-qinghua.md"
+  - 校外地图:
   - 硬件设备:
-    - "classroom-equip.md"
+      - "classroom-equip.md"
   - "orgnization.md"
   - 杂项:
-    - "others.md"
+      - "others.md"
