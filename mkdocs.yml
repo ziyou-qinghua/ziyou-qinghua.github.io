@@ -31,22 +31,22 @@ theme:
 
 # 以下为目录信息
 nav:
-  - "index.md"
-  - 日程安排:
-    - "time-daily.md"
-    - "time-break.md"
-    - "lessons.md"
-    - "entertainment.md"
-  - 分班及班型:
-    - "class-exam.md"
-    - "class-num.md"
-    - "class-gaokao.md"
-  - 校内地图:
-    - "place-ziyou.md"
-    - "place-qinghua.md"
-  - 校外地图: 
-  - 硬件设备:
-    - "classroom-equip.md"
-  - "orgnization.md"
-  - 杂项:
-    - "others.md"
+	- "index.md"
+	- 日程安排:
+		- "time-daily.md"
+		- "time-break.md"
+		- "lessons.md"
+		- "entertainment.md"
+	- 分班及班型:
+    	- "class-exam.md"
+    	- "class-num.md"
+    	- "class-gaokao.md"
+  	- 校内地图:
+    	- "place-ziyou.md"
+    	- "place-qinghua.md"
+  	- 校外地图: 
+  	- 硬件设备:
+    	- "classroom-equip.md"
+  	- "orgnization.md"
+  	- 杂项:
+    	- "others.md"
