@@ -30,7 +30,7 @@ theme:
     - navigation.top # 回到顶部
 
 # 以下为目录信息
-nav:
+nav: 
   - "index.md"
   - 日程安排:
       - "time-daily.md"
