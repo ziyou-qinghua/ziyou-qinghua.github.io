@@ -1,5 +1,5 @@
 ---
-comment: true
+comments: true
 ---
 
 # 自由校区地图
