@@ -20,6 +20,8 @@ theme:
         name: 日间模式
     - media: "(prefers-color-scheme: dark)"
       scheme: slate
+      primary: deep purple #主要颜色
+      accent: yellow #次要颜色
       toggle:
         icon: material/weather-night
         name: 夜间模式
