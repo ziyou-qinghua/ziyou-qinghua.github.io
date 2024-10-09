@@ -31,7 +31,9 @@ theme:
 
 # 以下为目录信息
 nav:
-  - "index.md"
+  - 首页:
+    - "index.md"
+    - 这是什么:"intro-docs.md"
   - 日程安排:
     - "time-daily.md"
     - "time-break.md"
