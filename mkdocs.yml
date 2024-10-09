@@ -28,37 +28,47 @@ theme:
   icon:
     repo: fontawesome/brands/github # 设置git仓库图标
   features:
+    - content.code.copy # 启用代码块复制按钮，尽管我觉得用不上
     - navigation.tabs # 页顶导航栏
     - navigation.tabs.sticky # 粘性导航栏
     - toc.follow # 边栏自动滚动
     - navigation.top # 回到顶部
+    - navigation.footer # 启用页尾上一页下一页按钮
+
+markdown_extensions: #markdown扩展插件
+  - pymdownx.arithmatex:
+      generic: true
+
+extra_javascript: #js文件
+  - javascripts/mathjax.js
+  - https://unpkg.com/mathjax@3/es5/tex-mml-chtml.js
 
 # 以下为目录信息
 nav:
   - "index.md"
   - 前言:
-    - "intro/docs.md"
-    - "intro/contribution.md"
+      - "intro/docs.md"
+      - "intro/ contribution.md"
   - 日程安排:
-    - "time/daily.md"
-    - "time/break.md"
-    - "time/lessons.md"
-    - "time/entertainment.md"
+      - "time/daily.md"
+      - "time/break.md"
+      - "time/lessons.md"
+      - "time/entertainment.md"
   - 分班及班型:
-    - "type/exam.md"
-    - "type/num.md"
-    - "type/gaokao.md"
+      - "type/exam.md"
+      - "type/num.md"
+      - "type/gaokao.md"
   - 学校简介:
-    - "school/uniform.md"
-    - "school/ziyou.md"
-    - "school/qinghua.md"
+      - "school/uniform.md"
+      - "school/ziyou.md"
+      - "school/qinghua.md"
   # - 校外地图:
   - 硬件设备:
-    - "device/classroom.md"
+      - "device/classroom.md"
   - 这玩意应该叫啥？:
-    - "team/orgnization.md"
-    - "team/club.md"
-    - "team/unofficial.md"
+      - "team/orgnization.md"
+      - "team/club.md"
+      - "team/unofficial.md"
   - 杂项:
-    - "others.md"
+      - "others.md"
   - "board.md"
