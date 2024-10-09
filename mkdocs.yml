@@ -41,6 +41,9 @@ theme:
 markdown_extensions: #markdown扩展插件
   - pymdownx.arithmatex:
       generic: true
+  - pymdownx.caret
+  - pymdownx.mark
+  - pymdownx.tilde
 
 extra_javascript: #js文件
   - javascripts/mathjax.js
