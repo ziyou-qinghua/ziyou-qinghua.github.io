@@ -13,15 +13,15 @@ theme:
   palette: #日夜模式切换
     - media: "(prefers-color-scheme: light)"
       scheme: default
-      primary: deep purple #主要颜色
-      accent: green #次要颜色
+      primary: deep purple #基调色
+      accent: green #强调色
       toggle:
         icon: material/weather-sunny
         name: 日间模式
     - media: "(prefers-color-scheme: dark)"
       scheme: slate
-      primary: deep purple #主要颜色
-      accent: yellow #次要颜色
+      primary: deep purple #基调色
+      accent: red #强调色
       toggle:
         icon: material/weather-night
         name: 夜间模式
@@ -35,25 +35,29 @@ theme:
 
 # 以下为目录信息
 nav:
-  - 首页:
-    - "index.md"
-    - "intro-docs.md"
+  - "index.md"
+  - 前言:
+    - "intro/docs.md"
   - 日程安排:
-    - "time-daily.md"
-    - "time-break.md"
-    - "lessons.md"
-    - "entertainment.md"
+    - "time/daily.md"
+    - "time/break.md"
+    - "time/lessons.md"
+    - "time/entertainment.md"
   - 分班及班型:
-    - "class-exam.md"
-    - "class-num.md"
-    - "class-gaokao.md"
-  - 校内地图:
-    - "place-ziyou.md"
-    - "place-qinghua.md"
+    - "type/exam.md"
+    - "type/num.md"
+    - "type/gaokao.md"
+  - 学校简介:
+    - "school/uniform.md"
+    - "school/ziyou.md"
+    - "school/qinghua.md"
   # - 校外地图:
   - 硬件设备:
-    - "classroom-equip.md"
-    - "orgnization.md"
+    - "device/classroom.md"
+  - 这玩意应该叫啥？:
+    - "team/orgnization.md"
+    - "team/club.md"
+    - "team/unofficial.md"
   - 杂项:
     - "others.md"
   - "board.md"
