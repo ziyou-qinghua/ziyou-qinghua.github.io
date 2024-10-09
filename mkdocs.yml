@@ -15,11 +15,11 @@ theme:
   custom_dir: overrides # 启用评论需要此行
   palette: #日夜模式切换
     - media: "(prefers-color-scheme)"
-        primary: deep purple #基调色
-        accent: green #强调色
-        toggle:
-          icon: material/brightness-4
-          name: Switch to light mode
+      primary: deep purple #基调色
+      accent: green #强调色
+      toggle:
+        icon: material/brightness-4
+        name: Switch to light mode
     - media: "(prefers-color-scheme: light)"
       scheme: default
       primary: deep purple #基调色
