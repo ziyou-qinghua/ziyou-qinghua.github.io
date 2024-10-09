@@ -1,5 +1,5 @@
 ---
-comment: true
+comments: true
 ---
 
 # 课程配置
