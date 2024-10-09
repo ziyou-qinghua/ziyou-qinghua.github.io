@@ -4,22 +4,20 @@ comments: true
 
 # 课程配置
 
-
-
 ## 文化类科目
 
 |年级|高一|高二|高三|
 |:---:|:---:|:---:|:---:|
 |学期|上&emsp;下|上&emsp;下|上&emsp;下|
-|数学|✓&emsp;✓|✓&emsp;✓|✓&emsp;✓|
-|语文|✓&emsp;✓|✓&emsp;✓|✓&emsp;✓|
-|英语|✓&emsp;✓|✓&emsp;✓|✓&emsp;✓|
-|物理|✓&emsp;✓|✓&emsp;○|○&emsp;○|
-|化学|✓&emsp;✓|○&emsp;○|○&emsp;○|
-|生物|✓&emsp;✓|○&emsp;○|○&emsp;○|
-|历史|✓&emsp;✓|○&emsp;○|○&emsp;○|
-|政治|✓&emsp;✓|✓&emsp;○|○&emsp;○|
-|地理|✓&emsp;✓|○&emsp;○|○&emsp;○|
+|数学|√&emsp;√|√&emsp;√|√&emsp;√|
+|语文|√&emsp;√|√&emsp;√|√&emsp;√|
+|英语|√&emsp;√|√&emsp;√|√&emsp;√|
+|物理|√&emsp;√|√&emsp;○|○&emsp;○|
+|化学|√&emsp;√|○&emsp;○|○&emsp;○|
+|生物|√&emsp;√|○&emsp;○|○&emsp;○|
+|历史|√&emsp;√|○&emsp;○|○&emsp;○|
+|政治|√&emsp;√|√&emsp;○|○&emsp;○|
+|地理|√&emsp;√|○&emsp;○|○&emsp;○|
 
 注：
 
