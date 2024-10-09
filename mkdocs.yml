@@ -9,10 +9,6 @@ repo_name: ziyou-qinghua/ziyou-qinghua.github.io/
 # 以下为版权信息
 copyright: '© 2024 <a href="https://github.com/ziyou-qinghua">Ziyou-qinghua Team</a>. Some rights reserved: <a rel="license" href="https://creativecommons.org/licenses/by-nc/3.0/">CC-BY-NC 3.0 License</a>. '
 
-# 关闭页脚 Made with Material for MkDocs
-extra:
-  generator: false
-
 theme:
   language: zh
   name: material # 设定主题为 material
