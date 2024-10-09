@@ -1,5 +1,5 @@
 ---
-comment: true
+comments: true
 ---
 
 # 介系嘛啊？
