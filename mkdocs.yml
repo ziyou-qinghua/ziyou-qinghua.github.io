@@ -59,7 +59,8 @@ nav:
   - "index.md"
   - 前言:
       - "intro/docs.md"
-      - "intro/ contribution.md"
+      - "intro/notice.md"
+      - "intro/contribution.md"
   - 日程安排:
       - "time/daily.md"
       - "time/break.md"
