@@ -6,6 +6,13 @@ site_url: https://ziyou-qinghua.github.io/
 repo_url: https://github.com/ziyou-qinghua/ziyou-qinghua.github.io/
 repo_name: ziyou-qinghua/ziyou-qinghua.github.io/
 
+# 以下为版权信息
+copyright: '© 2024 <a href="https://github.com/ziyou-qinghua">Ziyou-qinghua Team</a>. Some rights reserved: <a rel="license" href="https://creativecommons.org/licenses/by-nc/3.0/">CC-BY-NC 3.0 License</a>. '
+
+# 关闭页脚 Made with Material for MkDocs
+extra:
+  generator: false
+
 theme:
   language: zh
   name: material # 设定主题为 material
@@ -34,10 +41,14 @@ theme:
     - toc.follow # 边栏自动滚动
     - navigation.top # 回到顶部
     - navigation.footer # 启用页尾上一页下一页按钮
+    - navigation.instant # 内部链接即时加载
 
 markdown_extensions: #markdown扩展插件
   - pymdownx.arithmatex:
       generic: true
+  - pymdownx.caret
+  - pymdownx.mark
+  - pymdownx.tilde
 
 extra_javascript: #js文件
   - javascripts/mathjax.js
@@ -65,7 +76,7 @@ nav:
   # - 校外地图:
   - 硬件设备:
       - "device/classroom.md"
-  - 这玩意应该叫啥？:
+  - 这玩意应该叫啥？我觉得学生组织:
       - "team/orgnization.md"
       - "team/club.md"
       - "team/unofficial.md"
