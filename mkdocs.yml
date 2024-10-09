@@ -14,17 +14,23 @@ theme:
   name: material # 设定主题为 material
   custom_dir: overrides # 启用评论需要此行
   palette: #日夜模式切换
+    - media: "(prefers-color-scheme)"
+        primary: deep purple #基调色
+        accent: green #强调色
+        toggle:
+          icon: material/brightness-4
+          name: Switch to light mode
     - media: "(prefers-color-scheme: light)"
       scheme: default
       primary: deep purple #基调色
-      accent: green #强调色
+      accent: red #强调色
       toggle:
         icon: material/weather-sunny
         name: 日间模式
     - media: "(prefers-color-scheme: dark)"
       scheme: slate
       primary: deep purple #基调色
-      accent: red #强调色
+      accent: yellow #强调色
       toggle:
         icon: material/weather-night
         name: 夜间模式
