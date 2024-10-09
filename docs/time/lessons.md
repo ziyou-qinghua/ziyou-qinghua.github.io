@@ -32,8 +32,8 @@ comments: true
 |:---:|:---:|:---:|:---:|
 |学期|上&emsp;下|上&emsp;下|上&emsp;下|
 |体育|√&emsp;√|√&emsp;○|○&emsp;○|
-|音乐|○&emsp;○| $\Delta$ &emsp; $\Delta$ |⨯&emsp;⨯|
-|美术|○&emsp;○| $\Delta$ &emsp; $\Delta$ |⨯&emsp;⨯|
+|音乐|○&emsp;○|Δ&emsp;Δ|⨯&emsp;⨯|
+|美术|○&emsp;○|Δ&emsp;Δ|⨯&emsp;⨯|
 |技术|○&emsp;○|○&emsp;○|⨯&emsp;⨯|
 |信息|√&emsp;○|⨯&emsp;⨯|⨯&emsp;⨯|
 |心理|√&emsp;√|√&emsp;√|□&emsp;□|
@@ -42,7 +42,7 @@ comments: true
 
 - √ : 本学期有该门课程
 - ○ : 本学期有该门课程，且为选课
-- $\Delta$ : 
+- Δ : 
 - □ :两校区轮流，第1周自由，第二周青华，以此类推，期间若有特殊活动或调休，依年级决定可能顺延或取消
 
 
