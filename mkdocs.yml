@@ -39,16 +39,16 @@ theme:
     - navigation.footer # 启用页尾上一页下一页按钮
     - navigation.instant # 内部链接即时加载
 
-markdown_extensions: #markdown扩展插件
-  - pymdownx.arithmatex:
+markdown_extensions: # markdown扩展插件
+  - pymdownx.arithmatex: # 数学公式支持
       generic: true
   - pymdownx.caret
   - pymdownx.mark
   - pymdownx.tilde
 
 extra_javascript: #js文件
-  - javascripts/mathjax.js
-  - https://unpkg.com/mathjax@3/es5/tex-mml-chtml.js
+  - javascripts/mathjax.js # 数学公式支持
+  - https://unpkg.com/mathjax@3/es5/tex-mml-chtml.js # 数学公式支持
 
 # 以下为目录信息
 nav:
@@ -63,10 +63,12 @@ nav:
       - "time/break.md"
       - "time/lessons.md"
       - "time/entertainment.md"
+      - "time/extra-course.md"
   - 分班及班型:
       - "type/exam.md"
       - "type/num.md"
       - "type/gaokao.md"
+      - "type/honor.md"
   - 学校简介:
       - "school/uniform.md"
       - "school/ziyou.md"
