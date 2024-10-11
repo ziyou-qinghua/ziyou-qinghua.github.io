@@ -16,9 +16,11 @@ comments: true
 [致非 CS（Computer Science） 专业贡献者](https://survivexjtu.github.io/前言/贡献指南.html#致非-cs-computer-science-专业贡献者)小节改写而来。
 
 [荣誉班](../type/honor.md)、[培优课程](../time/extra-course.md)页面内容
-由[SaltlessFish](https://github.com/SaltlessF1sh)编写
+由[SaltlessFish](https://github.com/SaltlessF1sh)编写。
 
 ### 网站搭建部分
+
+[ChidaoDouyu](https://github.com/ChidaoDouyu/)在网站前期搭建过程中进行了诸多尝试与贡献。
 
 [mkdocs](https://www.mkdocs.org/)用于搭建本网站。
 
@@ -26,7 +28,7 @@ comments: true
 
 [Github Pages](https://pages.github.com/)用于部署静态网站页面。
 
-[ChidaoDouyu](https://github.com/ChidaoDouyu/)在网站前期搭建过程中进行了诸多尝试与贡献。
+[giscus](https://giscus.app/zh-CN)用以实现评论功能。
 
 黑幕css文件引自[萌娘百科](https://zh.moegirl.org)，
 实现方式参考[Re：萌娘百科上的黑幕实现](https://www.cnblogs.com/Vanilla-chan/p/12355387.html)
