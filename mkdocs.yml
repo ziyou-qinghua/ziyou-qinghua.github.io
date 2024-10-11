@@ -46,6 +46,9 @@ markdown_extensions: # markdown扩展插件
   - pymdownx.mark
   - pymdownx.tilde
 
+extra_css: #js文件
+  - css/heimu.css # 黑幕功能实现
+
 extra_javascript: #js文件
   - javascripts/mathjax.js # 数学公式支持
   - https://unpkg.com/mathjax@3/es5/tex-mml-chtml.js # 数学公式支持
