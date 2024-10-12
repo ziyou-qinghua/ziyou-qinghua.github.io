@@ -103,6 +103,6 @@ nav:
   - 杂项:
       - "others.md"
   - 贡献:
-      - "conrtibution/how.md"
-      - "conrtibution/extra-grammar.md"
+      - "contribution/how.md"
+      - "contribution/extra-grammar.md"
   - "board.md"
