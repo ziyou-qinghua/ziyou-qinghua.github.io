@@ -100,10 +100,11 @@ CuSO~4~
 
 例如`$e^{ix}=\cos x+i\sin x$`其效果为 $e^{ix}=\cos x+i\sin x$
 
-若要使公式独占一行并置于中间，请使用符号对`\[`，`\]`包裹住公式。
+若要使公式独占一行并置于中间，请单独将公式置于一行，并在其上下两行各加一行，每行由两个美元符号`$$`组成，并与其他内容之间至少保持一行空行。
 
 例如
 ```
+麦克斯韦方程组：
 
 $$
 \nabla\cdot\vec{E}=\frac{\rho_e}{\epsilon_0}
@@ -124,9 +125,12 @@ $$
 ```
 效果为
 
+麦克斯韦方程组：
+
 $$
 \nabla\cdot\vec{E}=\frac{\rho_e}{\epsilon_0}
 $$
+
 $$
 \nabla\times\vec{E}=-\frac{\partial\vec{B}}{\partial t}
 $$
