@@ -96,9 +96,9 @@ CuSO~4~
 
 ## 数学公式
 
-请使用 $\LaTeX$ 语法，并使用符号对`\(`，`\)`包裹住公式。
+请使用 $\LaTeX$ 语法，并在其两侧各加上一个美元符号`$`。
 
-例如`\(e^{ix}=\cos x+i\sin x\)`其效果为 \(e^{ix}=\cos x+i\sin x\)
+例如`$e^{ix}=\cos x+i\sin x$`其效果为 $e^{ix}=\cos x+i\sin x$
 
 若要使公式独占一行并置于中间，请使用符号对`\[`，`\]`包裹住公式。
 
@@ -107,10 +107,11 @@ CuSO~4~
 \[\nabla\cdot\vec{E}=\frac{\rho_e}{\epsilon_0}\]
 \[\nabla\times\vec{E}=-\frac{\partial\vec{B}}{\partial t}\]
 \[\nabla\cdot\vec{B}=0\]
-\[\nabla\times\vec{B}=\epsilon_0\mu_0\frac{\partial \vec{E}}{\partial t}+\mu_0\vec{j}\]
+\[\nabla\times\vec{B}=\epsilon_0\mu_0\frac{\partial \vec{E}}{\partial t}+\mu_0\vec{j}
+\]
 ```
 效果为
 \[\nabla\cdot\vec{E}=\frac{\rho_e}{\epsilon_0}\]
 \[\nabla\times\vec{E}=-\frac{\partial\vec{B}}{\partial t}\]
 \[\nabla\cdot\vec{B}=0\]
-\[\nabla\times\vec{B}=\epsilon_0\mu_0\frac{\partial \vec{E}}{\partial t}+\mu_0\vec{j}\]
+\\[\nabla\times\vec{B}=\epsilon_0\mu_0\frac{\partial \vec{E}}{\partial t}+\mu_0\vec{j}\\]
