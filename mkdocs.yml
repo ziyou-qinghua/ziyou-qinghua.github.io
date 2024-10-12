@@ -63,7 +63,6 @@ nav:
   - 前言:
       - "intro/docs.md"
       - "intro/notice.md"
-      - "intro/contribution.md"
       - "intro/thanks.md"
   - 日程安排:
       - "time/daily.md"
@@ -71,6 +70,7 @@ nav:
       - "time/lessons.md"
       - "time/entertainment.md"
       - "time/extra-course.md"
+      - "time/test-and-exam.md"
   - 分班及班型:
       - "type/exam.md"
       - "type/num.md"
@@ -80,7 +80,7 @@ nav:
       - "school/uniform.md"
       - "school/ziyou.md"
       - "school/qinghua.md"
-      - "card.md"
+      - "school/card.md"
   # - 校外地图:
   - 硬件设备:
       - "device/classroom.md"
@@ -88,6 +88,8 @@ nav:
       - "team/orgnization.md"
       - "team/club.md"
       - "team/unofficial.md"
+  - 附中野史:
+      - "history/unofficial.md"
   # - 杂项:
       
   - 贡献:
