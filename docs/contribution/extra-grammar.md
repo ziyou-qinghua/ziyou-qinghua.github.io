@@ -64,8 +64,6 @@ CuSO~4~
 ??? tip ”此处为标题“
     
     一段话
-
-    另一段话
 ```
 
 其效果如下：
@@ -74,16 +72,12 @@ CuSO~4~
     
     一段话
 
-    另一段话
-
 若不想注释被折叠，请在`???`后边加上一个加号`+`，例如：
 
 ```markdown
 ???+ note ”此处为标题“
     
     一段话
-
-    另一段话
 ```
 
 其效果如下：
@@ -91,9 +85,6 @@ CuSO~4~
 ???+ note ”此处为标题“
     
     一段话
-
-    另一段话
-
 
 其中`tip`与`note`处决定了注释的图标，可选用的类型有`note`,  `abstract`, `info`, `tip`, `success`, `question`, `warning`, `failure`, `danger`, `bug`, `example`, `quote`。
 

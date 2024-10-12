@@ -59,9 +59,9 @@ markdown_extensions: # markdown扩展插件
   - pymdownx.caret # 下划线与上标
   - pymdownx.mark # 强调
   - pymdownx.tilde # 删除线与下标
-  - admonition # 启用警告语法扩展
-  - pymdownx.details # 启用警告语法扩展
-  - pymdownx.superfences # 启用警告语法扩展
+  - admonition # 启用注释语法扩展
+  - pymdownx.details # 启用注释语法扩展
+  - pymdownx.superfences # 启用注释语法扩展
 
 extra_css: #js文件
   - css/heimu.css # 黑幕功能实现
