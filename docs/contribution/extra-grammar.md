@@ -107,12 +107,10 @@ CuSO~4~
 \[\nabla\cdot\vec{E}=\frac{\rho_e}{\epsilon_0}\]
 \[\nabla\times\vec{E}=-\frac{\partial\vec{B}}{\partial t}\]
 \[\nabla\cdot\vec{B}=0\]
-\[\nabla\times\vec{B}=\epsilon_0\mu_0\frac{\partial \vec{E}}{\partial t}+\mu_0\vec{j}
-\]
+\[\nabla\times\vec{B}=\epsilon_0\mu_0\frac{\partial \vec{E}}{\partial t}+\mu_0\vec{j}\]
 ```
 效果为
 \[\nabla\cdot\vec{E}=\frac{\rho_e}{\epsilon_0}\]
 \[\nabla\times\vec{E}=-\frac{\partial\vec{B}}{\partial t}\]
 \[\nabla\cdot\vec{B}=0\]
-\[\nabla\times\vec{B}=\epsilon_0\mu_0\frac{\partial \vec{E}}{\partial t}+\mu_0\vec{j}
-\]
+\[\nabla\times\vec{B}=\epsilon_0\mu_0\frac{\partial \vec{E}}{\partial t}+\mu_0\vec{j}\]
