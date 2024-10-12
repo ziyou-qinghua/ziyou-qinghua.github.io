@@ -101,7 +101,7 @@ nav:
       - "team/orgnization.md"
       - "team/club.md"
       - "team/unofficial.md"
-  - 杂项:
+  # - 杂项:
       
   - 贡献:
       - "contribution/how.md"
