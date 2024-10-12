@@ -96,9 +96,17 @@ CuSO~4~
 
 ## 数学公式
 
+> 本手册采用 MathJax 插件
+
 请使用 $\LaTeX$ 语法，并在其两侧各加上一个美元符号`$`。
 
-例如`$e^{ix}=\cos x+i\sin x$`其效果为 $e^{ix}=\cos x+i\sin x$
+例如
+
+`欧拉公式：$e^{ix}=\cos x+i\sin x$`
+
+其效果为
+
+欧拉公式：$e^{ix}=\cos x+i\sin x$
 
 若要使公式独占一行并置于中间，请单独将公式置于一行，并在其上下两行各加一行，每行由两个美元符号`$$`组成，并与其他内容之间至少保持一行空行。
 
@@ -143,3 +151,4 @@ $$
 \nabla\times\vec{B}=\epsilon_0\mu_0\frac{\partial \vec{E}}{\partial t}+\mu_0\vec{j}
 $$
 
+对于更完整的使用方法，请参考[Math#MathJax](https://squidfunk.github.io/mkdocs-material/reference/math/?h=mathjax#mathjax)页面。
