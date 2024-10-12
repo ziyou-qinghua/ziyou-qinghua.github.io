@@ -6,6 +6,15 @@
 
     此处所列语法可能不受其他支持 markdown 页面的支持，请谨慎将此页面语法用于他处。
 
+## ^^下划线^^
+
+要使用 ^^下划线^^ 语法，请于文本两端各加入两个乘方符号`^^`，例如：
+
+`^^文本^^`
+
+其效果如下：
+
+^^文本^^
 
 ## ~~删除线~~
 
@@ -16,16 +25,6 @@
 其效果如下：
 
 ~~文本~~
-
-## ^^下划线^^
-
-要使用 ^^删除线^^ 语法，请于文本两端各加入两个乘方符号`^^`，例如：
-
-`^^文本^^`
-
-其效果如下：
-
-^^文本^^
 
 ## 上^标^
 
@@ -39,7 +38,7 @@
 
 ## 下~标~
 
-要使用 ~上标~ 语法，请于文本两端各加入一个浪线`~`，例如：
+要使用 ~下标~ 语法，请于文本两端各加入一个浪线`~`，例如：
 
 `CuSO~4~`
 
@@ -67,7 +66,7 @@ CuSO~4~
     一段话
 
     另一段话
-```                                         
+```
 
 其效果如下：
 
@@ -94,3 +93,24 @@ CuSO~4~
 其中`tip`与`note`处决定了注释的图标，可选用的类型有`note`,  `abstract`, `info`, `tip`, `success`, `question`, `warning`, `failure`, `danger`, `bug`, `example`, `quote`。
 
 对于更完整的使用方法，请参考[Admonitions](https://squidfunk.github.io/mkdocs-material/reference/admonitions/?h=admonition)页面。
+
+## 数学公式
+
+请使用 $\LaTeX$ 语法，并在其两侧各加上一个美元符号`$`。
+
+例如`$e^{ix}=\cos x+i\sin x$`其效果为$e^{ix}=\cos x+i\sin x$
+
+若要使公式独占一行并置于中间，请于公式两侧各加上两个美元符号`$$`
+
+例如
+```
+$$\nabla\cdot\vec{E}=\frac{\rho_e}{\epsilon_0}$$
+$$\nabla\times\vec{E}=-\frac{\partial\vec{B}}{\partial t}$$
+$$\nabla\cdot\vec{B}=0$$
+$$\nabla\times\vec{B}=\epsilon_0\mu_0\frac{\partial \vec{E}}{\partial t}+\mu_0\vec{j}$$
+```
+效果为
+$$\nabla\cdot\vec{E}=\frac{\rho_e}{\epsilon_0}$$
+$$\nabla\times\vec{E}=-\frac{\partial\vec{B}}{\partial t}$$
+$$\nabla\cdot\vec{B}=0$$
+$$\nabla\times\vec{B}=\epsilon_0\mu_0\frac{\partial \vec{E}}{\partial t}+\mu_0\vec{j}$$
