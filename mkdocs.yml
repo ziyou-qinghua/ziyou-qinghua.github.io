@@ -88,10 +88,16 @@ nav:
       - "team/orgnization.md"
       - "team/club.md"
       - "team/unofficial.md"
+  - 飞跃手册:
+      - "fly/gaokao.md"
+      - "fly/-oh.md"
+      - "fly/overseas.md"
+      - "fly/olympic.md"
+      - "fly/art.md"
+      - "fly/physics.md"
   - 附中野史:
       - "history/unofficial.md"
   # - 杂项:
-      
   - 贡献:
       - "contribution/how.md"
       - markdown语法:
