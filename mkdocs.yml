@@ -55,7 +55,6 @@ extra_css: #js文件
 
 extra_javascript: #js文件
   - javascripts/mathjax.js # 数学公式支持
-  - javascripts/time.js # 倒计时支持
   - https://unpkg.com/mathjax@3/es5/tex-mml-chtml.js # 数学公式支持
 
 # 以下为目录信息
