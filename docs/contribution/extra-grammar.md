@@ -1,10 +1,70 @@
 # 额外语法
 
+???+ warning "施工中"
+
+    本页面尚未编辑完成
+
 除了基础的markdown语法以外，本手册通过扩展插件与自定义css等方式实现了一些额外扩展语法，以下对其进行介绍，以便于各贡献者进行编辑：
 
 !!! warning "注意"
 
-    此处所列语法可能不受其他支持 markdown 页面的支持，请谨慎将此页面语法用于他处。
+    此处所列语法可能不受其他支持 markdown 编辑器的支持，请谨慎将此页面语法用于他处。
+
+## 列表
+
+## 脚注
+
+## 代码块
+
+如果要使用大段代码，请在代码块之前和之后的行上使用三个反引号 ` ``` ` 或三个波浪号 `~~~`，代码块应与正文使用一个空行间隔开，可以在行前加入语言标注进行语法高亮，例如
+
+~~~
+```cpp
+#define _CRT_SECURE_NO_WARNINGS
+#include <bits/stdc++.h> 
+using namespace std;
+
+void solve(void)
+{
+    cout << "hello, world" << endl;
+    return;
+}
+
+int main(void)
+{
+    ios::sync_with_stdio(false), cin.tie(0), cout.tie(0);
+    unsigned long long T = 1;
+    // cin >> T;
+    while (T--)
+        solve();
+    return 0;
+}
+```
+~~~
+
+其效果为
+
+```cpp
+#define _CRT_SECURE_NO_WARNINGS
+#include <bits/stdc++.h> 
+using namespace std;
+
+void solve(void)
+{
+    cout << "hello, world" << endl;
+    return;
+}
+
+int main(void)
+{
+    ios::sync_with_stdio(false), cin.tie(0), cout.tie(0);
+    unsigned long long T = 1;
+    // cin >> T;
+    while (T--)
+        solve();
+    return 0;
+}
+```
 
 ## ^^下划线^^
 
@@ -111,23 +171,18 @@ CuSO~4~
 若要使公式独占一行并置于中间，请单独将公式置于一行，并在其上下两行各加一行，每行由两个美元符号`$$`组成，并与其他内容之间至少保持一行空行。
 
 例如
-```
+```latex
 麦克斯韦方程组：
 
 $$
-\nabla\cdot\vec{E}=\frac{\rho_e}{\epsilon_0}
-$$
-
-$$
-\nabla\times\vec{E}=-\frac{\partial\vec{B}}{\partial t}
-$$
-
-$$
-\nabla\cdot\vec{B}=0 
-$$
-
-$$
-\nabla\times\vec{B}=\epsilon_0\mu_0\frac{\partial \vec{E}}{\partial t}+\mu_0\vec{j}
+\begin{equation*}
+    \begin{cases}
+        \nabla\cdot\vec{E}=\frac{\rho_e}{\epsilon_0} \\
+        \nabla\times\vec{E}=-\frac{\partial\vec{B}}{\partial t} \\
+        \nabla\cdot\vec{B}=0 \\
+        \nabla\times\vec{B}=\epsilon_0\mu_0\frac{\partial \vec{E}}{\partial t}+\mu_0\vec{j}
+    \end{cases}
+\end{equation*}
 $$
 
 ```
@@ -136,19 +191,14 @@ $$
 麦克斯韦方程组：
 
 $$
-\nabla\cdot\vec{E}=\frac{\rho_e}{\epsilon_0}
-$$
-
-$$
-\nabla\times\vec{E}=-\frac{\partial\vec{B}}{\partial t}
-$$
-
-$$
-\nabla\cdot\vec{B}=0 
-$$
-
-$$
-\nabla\times\vec{B}=\epsilon_0\mu_0\frac{\partial \vec{E}}{\partial t}+\mu_0\vec{j}
+\begin{equation*}
+    \begin{cases}
+        \nabla\cdot\vec{E}=\frac{\rho_e}{\epsilon_0} \\
+        \nabla\times\vec{E}=-\frac{\partial\vec{B}}{\partial t} \\
+        \nabla\cdot\vec{B}=0 \\
+        \nabla\times\vec{B}=\epsilon_0\mu_0\frac{\partial \vec{E}}{\partial t}+\mu_0\vec{j}
+    \end{cases}
+\end{equation*}
 $$
 
 对于更完整的使用方法，请参考[Math#MathJax](https://squidfunk.github.io/mkdocs-material/reference/math/?h=mathjax#mathjax)页面。

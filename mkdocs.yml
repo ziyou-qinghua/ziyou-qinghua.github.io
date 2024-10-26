@@ -69,8 +69,10 @@ nav:
       - "time/lessons.md"
       - "time/test-and-exam.md"
       - "time/break.md"
+      - "time/sat.md"
       - "time/extra-course.md"
-      - "time/entertainment.md"
+      - "time/events.md"
+      - "time/army.md"
   - 学校相关:
       - "school/uniform.md"
       - "school/card.md"
