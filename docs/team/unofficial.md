@@ -20,4 +20,4 @@ comments: true
 
 ## galgame群
 
-请解压[data](../asserts/data.zip)以获取QQ群号，压缩包密码为“立春天风渐暖”
+请解压[data](https://github.com/ziyou-qinghua/ziyou-qinghua.github.io/blob/master/assets/data.7zip)以获取QQ群号，压缩包密码为“立春天风渐暖”
