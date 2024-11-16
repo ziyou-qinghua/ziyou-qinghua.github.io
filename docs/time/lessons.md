@@ -6,18 +6,18 @@ comments: true
 
 ## 文化类科目
 
-|年级|高一|高二|高三|
-|:---:|:---:|:---:|:---:|
-|学期|上&emsp;下|上&emsp;下|上&emsp;下|
-|数学|√&emsp;√|√&emsp;√|√&emsp;√|
-|语文|√&emsp;√|√&emsp;√|√&emsp;√|
-|英语|√&emsp;√|√&emsp;√|√&emsp;√|
-|物理|√&emsp;√|√&emsp;○|○&emsp;○|
-|化学|√&emsp;√|○&emsp;○|○&emsp;○|
-|生物|√&emsp;√|○&emsp;○|○&emsp;○|
-|历史|√&emsp;√|○&emsp;○|○&emsp;○|
-|政治|√&emsp;√|√&emsp;○|○&emsp;○|
-|地理|√&emsp;√|○&emsp;○|○&emsp;○|
+| 年级  |    高一    |    高二    |    高三    |
+| :---: | :--------: | :--------: | :--------: |
+| 学期  | 上&emsp;下 | 上&emsp;下 | 上&emsp;下 |
+| 数学  |  √&emsp;√  |  √&emsp;√  |  √&emsp;√  |
+| 语文  |  √&emsp;√  |  √&emsp;√  |  √&emsp;√  |
+| 英语  |  √&emsp;√  |  √&emsp;√  |  √&emsp;√  |
+| 物理  |  √&emsp;√  |  √&emsp;○  |  ○&emsp;○  |
+| 化学  |  √&emsp;√  |  ○&emsp;○  |  ○&emsp;○  |
+| 生物  |  √&emsp;√  |  ○&emsp;○  |  ○&emsp;○  |
+| 历史  |  √&emsp;√  |  ○&emsp;○  |  ○&emsp;○  |
+| 政治  |  √&emsp;√  |  √&emsp;○  |  ○&emsp;○  |
+| 地理  |  √&emsp;√  |  ○&emsp;○  |  ○&emsp;○  |
 
 注：
 
@@ -26,15 +26,15 @@ comments: true
 
 ## 其他科目
 
-|年级|高一|高二|高三|
-|:---:|:---:|:---:|:---:|
-|学期|上&emsp;下|上&emsp;下|上&emsp;下|
-|体育|√&emsp;√|○&emsp;○|○&emsp;○|
-|音乐|○&emsp;○|Δ&emsp;Δ|⨯&emsp;⨯|
-|美术|○&emsp;○|Δ&emsp;Δ|⨯&emsp;⨯|
-|技术|○&emsp;○|○&emsp;○|⨯&emsp;⨯|
-|信息|√&emsp;○|⨯&emsp;⨯|⨯&emsp;⨯|
-|心理|√&emsp;√|√&emsp;√|□&emsp;□|
+| 年级  |    高一    |    高二    |    高三    |
+| :---: | :--------: | :--------: | :--------: |
+| 学期  | 上&emsp;下 | 上&emsp;下 | 上&emsp;下 |
+| 体育  |  √&emsp;√  |  ○&emsp;○  |  ○&emsp;○  |
+| 音乐  |  ○&emsp;○  |  Δ&emsp;Δ  |  ⨯&emsp;⨯  |
+| 美术  |  ○&emsp;○  |  Δ&emsp;Δ  |  ⨯&emsp;⨯  |
+| 技术  |  ○&emsp;○  |  ○&emsp;○  |  ⨯&emsp;⨯  |
+| 信息  |  √&emsp;○  |  ⨯&emsp;⨯  |  ⨯&emsp;⨯  |
+| 心理  |  √&emsp;√  |  √&emsp;√  |  □&emsp;□  |
 
 注：
 

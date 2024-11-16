@@ -17,3 +17,7 @@ comments: true
 ## 万能墙
 东师附中万能墙(自由,青华校区)：长庆街南北 `微信号：sdfz_ybgrc` 
 2025级新生咨询微信群：请联系万能墙
+
+## galgame群
+
+请解压[data](../asserts/data.zip)以获取QQ群号，压缩包密码为“立春天风渐暖”
