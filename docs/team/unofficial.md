@@ -15,8 +15,12 @@ comments: true
 猜你想找：[递归](https://www.bing.com/search?q=%E9%80%92%E5%BD%92)
 
 ## 万能墙
+
 东师附中万能墙(自由,青华校区)：长庆街南北 `微信号：sdfz_ybgrc` 
-2025级新生咨询微信群：请联系万能墙
+
+## QQ 墙
+
+请加QQ：3058311877
 
 ## galgame群
 
