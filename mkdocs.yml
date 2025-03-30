@@ -104,4 +104,5 @@ nav:
       - markdown语法:
           - "contribution/grammar.md"
           - "contribution/extra-grammar.md"
+      - "contribution/log.md"
   - "board.md"
