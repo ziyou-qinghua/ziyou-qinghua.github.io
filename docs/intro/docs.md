@@ -1,5 +1,6 @@
 ---
 template: main.html
+comments: true
 ---
 
 # 介系嘛啊？
