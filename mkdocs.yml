@@ -49,6 +49,7 @@ markdown_extensions: # markdown扩展插件
   - pymdownx.mark # 强调
   - pymdownx.superfences # 启用注释语法扩展
   - pymdownx.tilde # 删除线与下标
+  - meta #waline需要，参见https://github.com/squidfunk/mkdocs-material/discussions/4166
 
 extra_css: #js文件
   - css/heimu.css # 黑幕功能实现
