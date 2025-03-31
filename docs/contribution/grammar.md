@@ -1,3 +1,8 @@
+---
+template: main.html
+comments: true
+---
+
 # 基本语法
 
 ## 换行与段落
