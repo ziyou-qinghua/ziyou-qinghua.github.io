@@ -1,4 +1,3 @@
-
 {% extends "base.html" %}
 
 {% block content %}
@@ -11,9 +10,9 @@
 {% block styles %}
 {{ super() }}
 <link
-        rel="stylesheet"
-        href="https://unpkg.com/@waline/client@v3/dist/waline.css"
-/>
+    rel="stylesheet"
+    href="https://unpkg.com/@waline/client@v3/dist/waline.css"
+  />
 <style>
     .md-grid {
         max-width: 1200px;
@@ -24,15 +23,14 @@
 {% block scripts %}
 {{ super() }}
 {% if page and page.meta and page.meta.template %}
-<script src="https://unpkg.com/@waline/client@v3/dist/waline.js"></script>
-<script>
-    Waline.init(
-        {
-            el: '#waline-container',
-            serverURL: "https://comments.chiyoyuki.uk/",
-            dark: 'auto'
-        }
-    )
-</script>
+<div id="waline"></div>
+  <script type="module">
+    import { init } from 'https://unpkg.com/@waline/client@v3/dist/waline.js';
+
+    init({
+      el: '#waline',
+      serverURL: 'https://your-domain.vercel.app',
+    });
+  </script>
 {% endif %}
 {% endblock %}
