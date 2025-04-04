@@ -12,7 +12,7 @@
 {{ super() }}
 <link
         rel="stylesheet"
-        href="https://unpkg.com/@waline/client@v2/dist/waline.css"
+        href="https://unpkg.com/@waline/client@v3/dist/waline.css"
 />
 <style>
     .md-grid {
@@ -24,7 +24,7 @@
 {% block scripts %}
 {{ super() }}
 {% if page and page.meta and page.meta.template %}
-<script src="https://unpkg.com/@waline/client@v2/dist/waline.js"></script>
+<script src="https://unpkg.com/@waline/client@v3/dist/waline.js"></script>
 <script>
     Waline.init(
         {
