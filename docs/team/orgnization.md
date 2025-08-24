@@ -1,9 +1,7 @@
 ---
 template: main.html
-comments: true
+comments: false
 ---
-
-
 
 # 三大组织
 
