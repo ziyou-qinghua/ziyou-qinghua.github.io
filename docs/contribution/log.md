@@ -1,6 +1,6 @@
 ---
 template: main.html
-comments: true
+comments: false
 ---
 
 # 更新日志
@@ -13,4 +13,10 @@ comments: true
 
   考虑逐步将各页面均启用 Waline 后弃用原有 giscus ，但保留其配置文件以备不时之需
 
+  > update by <font color=green>★</font> $\Rightarrow$
+
+- 20250824
+
+  将账号转为组织，并全局弃用 gisgus ，采用 Waline 方案，美化部分留作未来考虑
+  
   > update by <font color=green>★</font> $\Rightarrow$
