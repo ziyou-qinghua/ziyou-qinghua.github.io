@@ -3,7 +3,7 @@ template: main.html
 comments: false
 ---
 
-# 体考
+# 强基计划
 
 ???+ warning "施工中"
 

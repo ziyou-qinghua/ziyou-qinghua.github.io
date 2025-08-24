@@ -1,5 +1,6 @@
 ---
-comments: true
+template: main.html
+comments: false
 ---
 
 # 选课
@@ -15,3 +16,7 @@ comments: true
 > 这选课服务器就是一坨。
 > 
 > ——by <font color=green>★</font> $\Rightarrow$
+
+> 这选课服务器怎么还是一坨啊。
+> 
+> ——by <font color=green>★</font> $\Rightarrow$ 补充于2025.03

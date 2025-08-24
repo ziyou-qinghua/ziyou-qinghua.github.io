@@ -1,12 +1,11 @@
 ---
-comments: true
+template: main.html
+comments: false
 ---
 
 # 读者须知
 
 如您继续阅读，则视为您已同意以下内容：
-
-## 皮亚诺公理
 
 1. 0是自然数；
 2. 每一个确定的自然数a，都有一个确定的后继数a'，a'也是自然数；
