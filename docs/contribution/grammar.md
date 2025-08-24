@@ -1,6 +1,6 @@
 ---
 template: main.html
-comments: true
+comments: false
 ---
 
 # 基本语法

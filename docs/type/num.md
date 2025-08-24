@@ -1,6 +1,6 @@
 ---
 template: main.html
-comments: true
+comments: false
 ---
 
 # 班号与班型
