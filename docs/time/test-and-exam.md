@@ -1,5 +1,6 @@
 ---
-comments: true
+template: main.html
+comments: false
 ---
 
 # 大练习及考试

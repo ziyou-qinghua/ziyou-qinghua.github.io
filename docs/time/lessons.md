@@ -1,5 +1,6 @@
 ---
-comments: true
+template: main.html
+comments: false
 ---
 
 # 课程配置

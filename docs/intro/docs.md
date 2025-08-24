@@ -1,5 +1,6 @@
 ---
-comments: true
+template: main.html
+comments: false
 ---
 
 # 介系嘛啊？

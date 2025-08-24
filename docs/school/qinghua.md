@@ -1,5 +1,6 @@
 ---
-comments: true
+template: main.html
+comments: false
 ---
 
 # 青华校区地图
