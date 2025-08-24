@@ -1,6 +1,6 @@
 ---
 template: main.html
-comments: true
+comments: false
 ---
 
 # 地下组织
@@ -26,3 +26,7 @@ comments: true
 ## galgame群
 
 请解压[data](https://github.com/ziyou-qinghua/ziyou-qinghua.github.io/blob/master/assets/data.7zip)以获取QQ群号，压缩包密码为“立春天风渐暖”
+
+## 车万群
+
+欢迎加入师大附中东方同好群，群号 748830046
