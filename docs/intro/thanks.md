@@ -13,7 +13,7 @@ comments: false
 
 ### 正文部分
 
-本手册基于《东北师大附中生存指南》改编而来，《东北师大附中生存指南》原作者为VC志愿者协会往届部分社员，后经<font color=red>★</font>[氯化银不是lhy](https://space.bilibili.com/520199599)、<font color=red>★</font>[ChidaoDouyu](https://github.com/ChidaoDouyu/)等人完善补充。
+本手册基于《东北师大附中生存指南》改编而来，《东北师大附中生存指南》原作者为VC志愿者协会往届部分社员，后经<font color=red>★</font>[氯化银不是lhy](https://space.bilibili.com/520199599)、<font color=red>★</font>[ChidaoDouyu](https://github.com/ChidaoDouyu/)、<font color=red>★</font>[🐷🍄＞](https://space.bilibili.com/347482917)等人完善补充。
 
 [贡献指南](contribution.md)中发送邮件一节
 由[汐学组](https://xistudygroup.github.io/)编写的
