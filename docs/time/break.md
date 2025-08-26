@@ -24,10 +24,11 @@ comments: false
 - 教学：高一入学后的前 4~6 课时体育课将用于校操教学
 
 校操由拉拉操、街舞、八极拳三个部分组成。
+
 使用的音乐分别为：
-Get Up (A Cowboys Anthem) --- Kelly Clarkson
-Samsara --- Tungevaag & Raaban
-霍元甲 --- 周杰伦
+- Get Up (A Cowboys Anthem) --- Kelly Clarkson
+- Samsara --- Tungevaag & Raaban
+- 霍元甲 --- 周杰伦
 
 <span class="heimu" title="《霍元甲》好听喵">
 每年总会出现一部分领悟到校操精髓，动作大胆而奔放的同学，成为附中一道风景线。
