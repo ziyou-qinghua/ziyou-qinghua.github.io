@@ -62,47 +62,49 @@ extra_javascript: #js文件
 nav:
   - "index.md"
   - 前言:
-      - "intro/docs.md"
-      - "intro/notice.md"
-      - "intro/thanks.md"
+    - "intro/docs.md"
+    - "intro/notice.md"
+    - "intro/thanks.md"
   - 日程安排:
-      - "time/daily.md"
-      - "time/lessons.md"
-      - "time/test-and-exam.md"
-      - "time/break.md"
-      - "time/sat.md"
-      - "time/extra-course.md"
-      - "time/events.md"
-      - "time/army.md"
+    - "time/daily.md"
+    - "time/lessons.md"
+    - "time/test-and-exam.md"
+    - "time/break.md"
+    - "time/sat.md"
+    - "time/extra-course.md"
+    - "time/events.md"
+    - "time/army.md"
   - 学校相关:
-      - "school/uniform.md"
-      - "school/card.md"
-      - "school/ziyou.md"
-      - "school/qinghua.md"
-      - "school/map.md"
+    - "school/uniform.md"
+    - "school/card.md"
+    - "school/ziyou.md"
+    - "school/qinghua.md"
+    - "school/map.md"
   - 分班及班型:
-      - "type/exam.md"
-      - "type/num.md"
-      - "type/gaokao.md"
-      - "type/honor.md"
-  - 硬件设备:
-      - "device/classroom.md"
+#   - "type/exam.md"
+    - "type/num.md"
+    - "type/gaokao.md"
+    - "type/honor.md"
+# - 硬件设备:
+#   - "device/classroom.md"
   - 学生团体:
-      - "team/orgnization.md"
-      - "team/club.md"
-      - "team/unofficial.md"
-#  - 飞跃手册:
-#      - "fly/gaokao.md"
-#      - "fly/oh.md"
-#      - "fly/overseas.md"
-#      - "fly/olympic.md"
-#      - "fly/art.md"
-#      - "fly/physics.md"
-  # - 杂项:
+    - "team/orgnization.md"
+    - "team/club.md"
+    - "team/unofficial.md"
+# - 飞跃手册:
+#   - "fly/gaokao.md"
+#   - "fly/oh.md"
+#   - "fly/overseas.md"
+#   - "fly/olympic.md"
+#   - "fly/art.md"
+#   - "fly/physics.md"
+# - 杂项:
+  - 一条名为长庆街的河:
+    - "changqing/changqing2024.md" 
   - 贡献:
-      - "contribution/how.md"
-      - markdown语法:
-          - "contribution/grammar.md"
-          - "contribution/extra-grammar.md"
-      - "contribution/log.md"
+    - "contribution/how.md"
+    - markdown语法:
+      - "contribution/grammar.md"
+      - "contribution/extra-grammar.md"
+    - "contribution/log.md"
   - "board.md"
