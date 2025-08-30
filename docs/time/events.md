@@ -75,4 +75,3 @@ comments: false
 （完整版）全校近千人同唱单身情歌，场面壮观，地点：东北师大附中青华校区 [BV1vs411x7sH](https://www.bilibili.com/video/BV1vs411x7sH)
 
 ## 扫雪
-嗯...就是...下雪之后...扫雪。嗯对。
