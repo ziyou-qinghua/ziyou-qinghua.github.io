@@ -100,7 +100,9 @@ nav:
 #   - "fly/physics.md"
 # - 杂项:
   - 一条名为长庆街的河:
+    - "changqing/goodbye.md"
     - "changqing/changqing2024.md" 
+    - "changqing/changqing2025.md" 
   - 贡献:
     - "contribution/how.md"
     - markdown语法:
