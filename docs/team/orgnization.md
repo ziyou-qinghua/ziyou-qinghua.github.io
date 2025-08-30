@@ -5,9 +5,9 @@ comments: false
 
 # 三大组织
 
-???+ warning "施工中"
+???+ info "补充信息"
 
-    本页面尚未编辑完成
+    欢迎补充
 
 ???+ warning "编写建议"
 
