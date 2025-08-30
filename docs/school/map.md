@@ -5,7 +5,7 @@ comments: false
 
 # 校外地图
 
-???+ info "补充信息"
+???+ warning "施工中"
 
-    欢迎补充
+    本页面尚未编辑完成
 
