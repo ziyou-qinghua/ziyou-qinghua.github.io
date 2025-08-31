@@ -9,3 +9,6 @@ comments: false
 
     欢迎补充
 
+## 自由校区
+
+![自由](../pics/outside-map_ziyou.png)
