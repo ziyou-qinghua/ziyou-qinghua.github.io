@@ -13,7 +13,7 @@ comments: false
 
 ### 正文部分
 
-本手册基于《东北师大附中生存指南》改编而来，《东北师大附中生存指南》原作者为VC志愿者协会往届部分社员，后经<font color=red>★</font>[氯化银不是lhy](https://space.bilibili.com/520199599)、<font color=red>★</font>[ChidaoDouyu](https://github.com/ChidaoDouyu/)、<font color=yellow>★</font>[🐷🍄＞](https://space.bilibili.com/347482917)等人完善补充。
+本手册基于《东北师大附中生存指南》改编而来，《东北师大附中生存指南》原作者为VC志愿者协会往届部分社员，后经 <font color=red>★</font>[氯化银不是lhy](https://space.bilibili.com/520199599) 、 <font color=red>★</font>[ChidaoDouyu](https://github.com/ChidaoDouyu/) 等人完善补充。
 
 [贡献指南](contribution.md)中发送邮件一节
 由[汐学组](https://xistudygroup.github.io/)编写的
@@ -21,11 +21,15 @@ comments: false
 [致非 CS（Computer Science） 专业贡献者](https://survivexjtu.github.io/前言/贡献指南.html#致非-cs-computer-science-专业贡献者)小节改写而来。
 
 [荣誉班](../type/honor.md)、[培优课程](../time/extra-course.md)页面内容
-由<font color=yellow>★</font>[SaltlessFish](https://github.com/SaltlessF1sh)编写。
+由 <font color=yellow>★</font>[SaltlessFish](https://github.com/SaltlessF1sh) 编写。
+
+<font color=yellow>★</font>[🐷🍄＞](https://space.bilibili.com/347482917) 编写、修正了本手册部分页面。
+
+、<font color=yellow>★</font>1155804709 提供了新版高三周六的日程表
 
 ### 网站搭建部分
 
-<font color=red>★</font>[ChidaoDouyu](https://github.com/ChidaoDouyu/)在网站前期搭建过程中进行了诸多尝试与贡献。
+<font color=red>★</font>[ChidaoDouyu](https://github.com/ChidaoDouyu/) 在网站前期搭建过程中进行了诸多尝试与贡献。
 
 [mkdocs](https://www.mkdocs.org/)用于搭建本网站。
 
