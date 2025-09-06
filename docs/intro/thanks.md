@@ -25,7 +25,7 @@ comments: false
 
 <font color=yellow>★</font>[🐷🍄＞](https://space.bilibili.com/347482917) 编写、修正了本手册部分页面。
 
-<font color=green>★</font>1155804709 提供了新版高三周六的日程表
+<font color=green>★</font>[1155804709](https://space.bilibili.com/1155804709) 提供了新版高三周六的日程表
 
 ### 网站搭建部分
 
