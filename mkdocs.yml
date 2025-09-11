@@ -12,7 +12,7 @@ copyright: '<p xmlns:cc="http://creativecommons.org/ns#" xmlns:dct="http://purl.
 theme:
   language: zh
   name: material # 设定主题为 material
-  custom_dir: overrides # 启用评论需要此行
+  custom_dir: overrides # 启用giscus评论需要此行
   palette: #日夜模式切换
     - media: "(prefers-color-scheme: light)"
       scheme: default
