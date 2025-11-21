@@ -27,7 +27,7 @@ comments: false
 
 <font color=green>★</font>[1155804709](https://space.bilibili.com/1155804709) 提供了新版高三周六的日程表
 
-<font color=blue>★</font>[Piao_xue]完善了一个社团信息
+<font color=blue>★</font>Piao_xue完善了一个社团信息
 
 ### 网站搭建部分
 
