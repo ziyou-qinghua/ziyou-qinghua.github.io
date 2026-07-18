@@ -15,7 +15,7 @@ comments: false
 
 本手册基于《东北师大附中生存指南》改编而来，《东北师大附中生存指南》原作者为VC志愿者协会往届部分社员，后经 <font color=red>★</font>[氯化银不是lhy](https://space.bilibili.com/520199599) 、 <font color=red>★</font>[ChidaoDouyu](https://github.com/ChidaoDouyu/) 等人完善补充。
 
-[贡献指南](contribution.md)中发送邮件一节
+[贡献指南](../CONTRIBUTING.md)中发送邮件一节
 由[汐学组](https://xistudygroup.github.io/)编写的
 [SurviveXJTU](https://survivexjtu.github.io/)中
 [致非 CS（Computer Science） 专业贡献者](https://survivexjtu.github.io/前言/贡献指南.html#致非-cs-computer-science-专业贡献者)小节改写而来。
