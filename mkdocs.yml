@@ -38,6 +38,7 @@ theme:
     - navigation.tabs # 页顶导航栏
     - navigation.tabs.sticky # 粘性导航栏
     - navigation.top # 回到顶部
+    - navigation.expand # 自动展开所有侧边栏
     - toc.follow # 边栏自动滚动
 
 markdown_extensions: # markdown扩展插件
@@ -61,54 +62,50 @@ extra_javascript: #js文件
 # 以下为目录信息
 nav:
   - "index.md"
-  - 前言:
-    - "intro/docs.md"
-    - "intro/notice.md"
-    - "intro/thanks.md"
-  - 日程安排:
-    - "time/daily.md"
-    - "time/lessons.md"
-    - "time/test-and-exam.md"
-    - "time/break.md"
-    - "time/sat.md"
-    - "time/extra-course.md"
-    - "time/events.md"
-    - "time/army.md"
-    - "time/research.md"
-  - 学校相关:
-    - "school/uniform.md"
-    - "school/card.md"
-    - "school/ziyou.md"
-    - "school/qinghua.md"
-    - "school/map.md"
-  - 分班及班型:
-#   - "type/exam.md"
-    - "type/num.md"
-    - "type/gaokao.md"
-    - "type/honor.md"
-# - 硬件设备:
-#   - "device/classroom.md"
-  - 学生团体:
-    - "team/orgnization.md"
-    - "team/club.md"
-    - "team/unofficial.md"
-    - "team/rip.md"
-# - 飞跃手册:
-#   - "fly/gaokao.md"
-#   - "fly/oh.md"
-#   - "fly/overseas.md"
-#   - "fly/olympic.md"
-#   - "fly/art.md"
-#   - "fly/physics.md"
-# - 杂项:
-# - 一条名为长庆街的河:
-#   - "changqing/goodbye.md"
-#   - "changqing/changqing2024.md" 
-#   - "changqing/changqing2025.md" 
-  - 贡献:
-    - "CONTRIBUTING.md"
-    - markdown语法:
-      - "contribution/grammar.md"
-      - "contribution/extra-grammar.md"
-    - "contribution/log.md"
+  - 一、入学之前:
+      - "type/num.md"
+      - "type/gaokao.md"
+      # 新建页面：正式上课前的日程，将以下两页面囊括进去
+      - "type/exam.md"
+      - "time/army.md"
+  - 二、认识校园:
+      - "school/uniform.md"
+      - "school/card.md"
+      - "school/ziyou.md"
+      - "school/qinghua.md"
+      - "school/map.md"
+      - "school/classroom.md"
+  - 三、学习日程:
+      - 日程:
+        - "time/daily.md"
+        - "time/break.md"
+      - 课程:
+        - "time/lessons.md"
+        - "time/sat.md"
+        - "time/choice.md"
+        - "time/extra-course.md"
+        - "time/olympic.md"
+        - "time/research.md"
+        - "type/honor.md"
+      - "time/test-and-exam.md"
+  - 四、校园生活:
+      - "time/events.md"
+      - "team/orgnization.md"
+      - "team/club.md"
+      - "team/unofficial.md"
+      - "team/rip.md"
+  - 五、飞跃手册:
+      - "fly/gaokao.md"
+      - "fly/oh.md"
+      - "fly/olympic.md"
+      - "fly/overseas.md"
+      - "fly/art.md"
+      - "fly/physics.md"
+  - 关于本站:
+      - "intro/thanks.md"
+      - "CONTRIBUTING.md"
+      - 写作语法:
+          - "contribution/grammar.md"
+          - "contribution/extra-grammar.md"
+      - "contribution/log.md"
   - "board.md"
